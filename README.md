@@ -31,8 +31,8 @@ The AI call lives entirely in `generateBrief()` in `src/zapier.ts`. Switching pr
 ### Install
 
 ```bash
-git clone https://github.com/mattjasinski/morning-brief.git
-cd morning-brief
+git clone https://github.com/XRAY-demos/zapier-sdk-xray-demo.git
+cd zapier-sdk-xray-demo
 npm install
 cp .env.example .env
 ```
